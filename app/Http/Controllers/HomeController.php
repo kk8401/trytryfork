@@ -11,6 +11,11 @@ class HomeController extends Controller
     }
     
     public function intro() {
+        // new function introduce
         // fork create another function
+    }
+
+    public function dashboard() {
+        // function from origin
     }
 }
